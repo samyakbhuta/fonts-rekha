@@ -43,3 +43,7 @@ The Rekha font is free software, licensed under the terms of the GNU General
 Public License.
 
 See LICENSE file for full license text.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/samyakbhuta/fonts-rekha/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
